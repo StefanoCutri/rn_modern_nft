@@ -4,7 +4,7 @@ import { useNavigation } from "@react-navigation/native";
 import { CircleButton, RectButton } from "../components/index";
 
 import { COLORS, SIZES, SHADOWS, assets } from "../constants";
-import { SubInfo, NFTTitle, EthPrice} from "./SubInfo";
+import { SubInfo, NFTTitle, EthPrice } from "./SubInfo";
 const NFTCard = ({ data }) => {
   const navigation = useNavigation();
 
@@ -32,27 +32,31 @@ const NFTCard = ({ data }) => {
       </View>
       <SubInfo />
 
-      <View style={{
-        width: '100%',
-        padding: SIZES.font
-      }}>
+      <View
+        style={{
+          width: "100%",
+          padding: SIZES.font,
+        }}
+      >
         <NFTTitle
           title={data.name}
           subtitle={data.creator}
           titleSize={SIZES.large}
           subTitleSize={SIZES.small}
         />
-        <View style={{
-          marginTop: SIZES.font,
-          flexDirection: 'row',
-          justifyContent: 'space-between',
-          alignItems: 'center'
-        }}>
-          <EthPrice price={data.price}/>
-          <RectButton  
+        <View
+          style={{
+            marginTop: SIZES.font,
+            flexDirection: "row",
+            justifyContent: "space-between",
+            alignItems: "center",
+          }}
+        >
+          <EthPrice price={data.price} />
+          <RectButton
             minWidth={120}
             fontSize={SIZES.font}
-            handlePress={() => navigation.navigate("Details", {data})}
+            handlePress={() => navigation.navigate("Details", { data })}
           />
         </View>
       </View>
