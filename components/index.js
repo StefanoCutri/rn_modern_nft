@@ -7,6 +7,12 @@ import NFTCard from "./NFTCard";
 import { SubInfo } from "./SubInfo";
 
 export {
-    HomeHeader, FocusedStatusBar, NFTCard, CircleButton, RectButton,
-    DetailsBid, DetailsDesc, SubInfo
-}
+  HomeHeader,
+  FocusedStatusBar,
+  NFTCard,
+  CircleButton,
+  RectButton,
+  DetailsBid,
+  DetailsDesc,
+  SubInfo,
+};
