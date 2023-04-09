@@ -5,6 +5,7 @@ import { CircleButton, RectButton } from "../components/index";
 
 import { COLORS, SIZES, SHADOWS, assets } from "../constants";
 import { SubInfo, NFTTitle, EthPrice } from "./SubInfo";
+
 const NFTCard = ({ data }) => {
   const navigation = useNavigation();
 
