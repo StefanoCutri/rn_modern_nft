@@ -88,9 +88,7 @@ const HomeHeader = ({ onSearch }) => {
           <TextInput
             placeholder="Search NFTs"
             style={{ flex: 1 }}
-            onChangeText={() => {
-              onSearch;
-            }}
+            onChangeText={onSearch}
           />
         </View>
       </View>
