@@ -1,6 +1,6 @@
 import { View, Text, Image, TextInput } from "react-native";
 
-import { COLORS, SIZES, SHADOWS, FONTS, assets } from "../constants";
+import { COLORS, SIZES, FONTS, assets } from "../constants";
 
 const HomeHeader = ({ onSearch }) => {
   return (
