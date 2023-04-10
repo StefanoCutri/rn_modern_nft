@@ -21,5 +21,7 @@ This is a React Native NFT (Non-Fungible Token) modern app created using Expo.
 - Run expo start to start the Expo development server.
 - Follow the instructions in the terminal to run the app on an emulator or physical device.
 
+Or you can download from the showcase in: https://rn-nft-landing-page.vercel.app/
+
 ## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for new features, please create an issue or submit a pull request.
