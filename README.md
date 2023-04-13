@@ -11,12 +11,9 @@ This is a landing showcase page for an NFT (non-fungible token) app built using 
 - Tailwind CSS
 
 ## Screenshots
-![Home view](https://user-images.githubusercontent.com/69378136/231000178-15384f1c-d543-4f60-a5d2-af393e0bfae7.png)
-![Interface](https://user-images.githubusercontent.com/69378136/231000221-813ba9c9-30df-4f8d-aab4-593b59a75caa.png)
-![Technologies](https://user-images.githubusercontent.com/69378136/231000243-4e914c7b-b106-4dd5-af3e-193fb712850a.png)
-![Deployment](https://user-images.githubusercontent.com/69378136/231000313-40c0202a-dc4e-4d66-b735-8dbfa13bc984.png)
-![Showcase](https://user-images.githubusercontent.com/69378136/231000349-a47a0545-b2bc-47b9-8859-fbf2b41d26da.png)
-![Download](https://user-images.githubusercontent.com/69378136/231000388-7e8ddd48-e365-478e-bec7-5000408ffb7e.png)
+![Home view](https://user-images.githubusercontent.com/69378136/230798307-f8c9a3b3-fae2-4d1e-afbe-632be1c672a7.png)
+![Search view](https://user-images.githubusercontent.com/69378136/230798319-b396b763-6edb-4ad5-9558-1bc4af168565.png)
+![Details screen](https://user-images.githubusercontent.com/69378136/230798334-5c6f8724-0c1a-4804-a767-9e006def1596.png)
 
 
 ## Installation and Usage
