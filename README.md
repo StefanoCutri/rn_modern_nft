@@ -2,13 +2,13 @@
 This is a React Native NFT (Non-Fungible Token) modern app created using Expo.
 
 ## Features
-- Provides all app information
-- The app has a responsive design that works seamlessly across all devices and screen sizes.
-- Ability download the app from the Expo store
+- Landing page with basic app information and dowload button
+- Dashboard to display user's NFTs
+- Ability to search NFTs by name
 
 ## Technologies Usedz
-- React 
-- Tailwind CSS
+- React Native
+- Expo
 
 ## Screenshots
 ![Home view](https://user-images.githubusercontent.com/69378136/230798307-f8c9a3b3-fae2-4d1e-afbe-632be1c672a7.png)
